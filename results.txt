@@ -1,0 +1,53 @@
+3633
+0                                    []
+1          [scene, orchard, oliv, hous]
+2                       [orlando, adam]
+3                             [orlando]
+4               [rememb, adam, fashion]
+5     [bequeath, poor, thousand, crown]
+6              [sayest, charg, brother]
+7                 [bless, breed, begin]
+8    [sad, brother, jaqu, keep, school]
+9       [report, speak, golden, profit]
+Name: act_text, dtype: object
+0 hous
+1 oliv
+2 orchard
+3 scene
+4 adam
+5 orlando
+6 fashion
+7 rememb
+8 bequeath
+9 crown
+10 poor
+Topic: 0 
+Words: 0.319*"rosalind" + 0.058*"silvius" + 0.036*"father" + 0.032*"forest" + 0.031*"love" + 0.030*"beau" + 0.030*"world" + 0.029*"charl" + 0.024*"play" + 0.019*"master"
+Topic: 1 
+Words: 0.105*"oliv" + 0.062*"love" + 0.050*"corin" + 0.045*"shepherd" + 0.041*"marri" + 0.039*"till" + 0.036*"true" + 0.032*"littl" + 0.030*"eye" + 0.027*"father"
+Topic: 2 
+Words: 0.135*"jaqu" + 0.048*"better" + 0.047*"brother" + 0.039*"court" + 0.034*"hour" + 0.033*"go" + 0.031*"desir" + 0.029*"mean" + 0.028*"hither" + 0.027*"bring"
+Topic: 3 
+Words: 0.139*"celia" + 0.101*"know" + 0.084*"phebe" + 0.055*"bear" + 0.045*"pray" + 0.039*"woman" + 0.035*"youth" + 0.032*"gentl" + 0.032*"say" + 0.028*"prithe"
+Topic: 4 
+Words: 0.115*"like" + 0.094*"time" + 0.060*"faith" + 0.048*"thank" + 0.038*"love" + 0.035*"look" + 0.032*"sweet" + 0.032*"begin" + 0.029*"horn" + 0.026*"tear"
+Topic: 5 
+Words: 0.271*"orlando" + 0.133*"love" + 0.032*"fortun" + 0.030*"lover" + 0.026*"give" + 0.020*"hast" + 0.020*"tree" + 0.020*"kiss" + 0.018*"right" + 0.018*"vers"
+Topic: 6 
+Words: 0.129*"touchston" + 0.093*"duke" + 0.060*"frederick" + 0.049*"heart" + 0.048*"rosalind" + 0.047*"young" + 0.046*"think" + 0.045*"live" + 0.036*"life" + 0.035*"exit"
+Topic: 7 
+Words: 0.129*"rosalind" + 0.067*"fool" + 0.065*"audrey" + 0.051*"come" + 0.047*"thing" + 0.036*"natur" + 0.034*"jaqu" + 0.032*"mistress" + 0.030*"grace" + 0.029*"love"
+Topic: 8 
+Words: 0.064*"lord" + 0.061*"speak" + 0.057*"tell" + 0.049*"hear" + 0.040*"love" + 0.033*"fall" + 0.031*"ladi" + 0.024*"rosalind" + 0.024*"food" + 0.023*"poor"
+Topic: 9 
+Words: 0.093*"duke" + 0.082*"celia" + 0.064*"senior" + 0.059*"orlando" + 0.055*"exeunt" + 0.048*"adam" + 0.039*"amien" + 0.036*"william" + 0.036*"look" + 0.030*"banish"
+Topic: 0 Word: 0.089*"know" + 0.077*"brother" + 0.064*"corin" + 0.055*"think" + 0.048*"tell" + 0.041*"shepherd" + 0.040*"court" + 0.035*"youth" + 0.034*"break" + 0.034*"fall"
+Topic: 1 Word: 0.090*"thing" + 0.083*"speak" + 0.052*"wrestl" + 0.051*"grace" + 0.050*"play" + 0.048*"leav" + 0.040*"answer" + 0.033*"ladi" + 0.031*"bear" + 0.031*"tongu"
+Topic: 2 Word: 0.073*"fool" + 0.070*"audrey" + 0.051*"amien" + 0.048*"exit" + 0.045*"fair" + 0.043*"song" + 0.041*"prithe" + 0.033*"hour" + 0.031*"horn" + 0.030*"master"
+Topic: 3 Word: 0.281*"orlando" + 0.210*"celia" + 0.084*"phebe" + 0.039*"charl" + 0.036*"rosalind" + 0.035*"faith" + 0.020*"begin" + 0.019*"tree" + 0.018*"manner" + 0.017*"mouth"
+Topic: 4 Word: 0.107*"duke" + 0.088*"senior" + 0.086*"orlando" + 0.060*"william" + 0.058*"rosalind" + 0.039*"mean" + 0.036*"heaven" + 0.032*"heart" + 0.032*"word" + 0.031*"make"
+Topic: 5 Word: 0.337*"rosalind" + 0.130*"touchston" + 0.057*"silvius" + 0.037*"celia" + 0.027*"bear" + 0.026*"hear" + 0.023*"say" + 0.019*"matter" + 0.018*"lover" + 0.018*"time"
+Topic: 6 Word: 0.189*"jaqu" + 0.075*"like" + 0.059*"marri" + 0.058*"live" + 0.050*"young" + 0.037*"rosalind" + 0.036*"come" + 0.030*"friend" + 0.026*"desir" + 0.024*"till"
+Topic: 7 Word: 0.058*"adam" + 0.051*"forest" + 0.049*"scene" + 0.047*"heart" + 0.041*"woman" + 0.038*"better" + 0.036*"gentl" + 0.035*"fortun" + 0.035*"go" + 0.035*"duke"
+Topic: 8 Word: 0.062*"time" + 0.049*"beau" + 0.047*"exeunt" + 0.046*"lord" + 0.039*"hand" + 0.039*"life" + 0.036*"frederick" + 0.036*"kind" + 0.032*"duke" + 0.031*"eye"
+Topic: 9 Word: 0.179*"love" + 0.135*"oliv" + 0.068*"father" + 0.059*"rosalind" + 0.059*"look" + 0.036*"doth" + 0.032*"world" + 0.026*"place" + 0.023*"true" + 0.022*"sing"
